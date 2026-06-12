@@ -1,5 +1,6 @@
 # Système de Gestion Hôtelière
 
+![Système de Gestion Hôtelière](mcd.png)
 ## Description du projet
 
 Ce projet consiste à concevoir et implémenter une base de données relationnelle pour un hôtel. L'objectif est de remplacer les registres papier et les fichiers Excel par une solution centralisée permettant de gérer efficacement les clients, les chambres, les réservations, les paiements et les séjours.
@@ -306,7 +307,7 @@ project/
 
 ## Auteur
 
-Nom de l'étudiant : ....................................
+Nom de l'étudiant : NADI Maryem
 
 Formation : Développeur Web et Web Mobile
 
